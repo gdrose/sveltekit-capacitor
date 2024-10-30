@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDEYgLuXowKJuEwc4PShXYTBobuvSuFnGc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>660396439966</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.tap2ai.cap</string>
+	<key>PROJECT_ID</key>
+	<string>mobileapp-c6733</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mobileapp-c6733.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:660396439966:ios:4de6e523e24ab8e686be8f</string>
+</dict>
+</plist>
