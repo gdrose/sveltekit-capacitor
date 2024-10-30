@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">tap2cap</string>
+    <string name="title_activity_main">tap2cap</string>
+    <string name="package_name">com.tap2ai.cap</string>
+    <string name="custom_url_scheme">com.tap2ai.cap</string>
+</resources>
